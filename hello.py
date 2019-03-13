@@ -35,8 +35,8 @@
 
 
 
-a = 33
-b = 33
+a = 35
+b = 35
 if b > a:
   print("b is greater than a")
 elif a == b:
